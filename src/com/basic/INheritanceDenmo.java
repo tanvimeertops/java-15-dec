@@ -32,7 +32,8 @@ class Child extends Student123{
 }
 public class INheritanceDenmo {
 public static void main(String[] args) {
-	Child c1=new Child();
+	Child c1=new 
+			Child();
 	c1.setData();
 	c1.show();
 }
