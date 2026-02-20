@@ -2,6 +2,10 @@ package com.basic;
 /* oops 
  * class : class is collection data member and member function
  * object : gives permission to access functionality of class
+ * inheritance
+ * encapsulation
+ * polymorphism
+ * abstraction
  */
 class Student{
 	int id;

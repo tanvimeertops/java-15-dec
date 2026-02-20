@@ -2,7 +2,7 @@ package com.basic;
 
 public class FirstDemo {
 public static void main(String[] args) {
-	int a=2147483647; //4 byte
+	int a=-2147483648; //4 byte
 	long l1=56266656566566l;//8 byte
 	char ch='a';//2 byte
 	float f1=455.4545f;//4 byte

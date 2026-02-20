@@ -7,7 +7,7 @@ package com.basic;
  */
 public class NestedIfDemo {
 public static void main(String[] args) {
-	int a=100,b=20,c=300;
+	int a=1000,b=2000,c=3000;
 	if(a>b) {
 		if(a>c) {
 			System.out.println("A is greater");

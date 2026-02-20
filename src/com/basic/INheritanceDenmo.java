@@ -10,10 +10,15 @@ package com.basic;
  * use keyword extends
  * object will be made for last child
  * 
+ * Encapsulation:wrapping of data
+ * private:accesible within the class
+ * protected:accesible within the class and in child class also
+ * default:accesible within package
+ * public:accesible everywhere
  */
 
 class Student123{
-	int roll_no;
+	protected int roll_no;
 	String name;
 	public void setData() {
 		roll_no=123;

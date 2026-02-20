@@ -2,6 +2,8 @@ package com.basic;
 /*
  * Arithmetic operator:
  * +-/*%
+ * 12345
+ * to bring last digit of a number use 12345%10
  */
 public class CalcDemo {
 public static void main(String[] args) {

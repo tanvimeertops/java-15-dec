@@ -25,11 +25,6 @@ public static void main(String[] args) {
 	do {
 		System.out.println(j);
 		j++;
-		
-		
-		
-		
-		
 	} while (j<=5);
 }
 }
